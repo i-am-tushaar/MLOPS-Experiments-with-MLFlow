@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/527270333198785199/70a07b4a91b84a62b54d3c075045fa41/artifacts
+deleted_time: 1776769690405
+end_time: 1776769639125
+entry_point_name: ''
+experiment_id: '527270333198785199'
+lifecycle_stage: deleted
+run_id: 70a07b4a91b84a62b54d3c075045fa41
+run_name: treasured-fly-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776769636953
+status: 3
+tags: []
+user_id: Tushar

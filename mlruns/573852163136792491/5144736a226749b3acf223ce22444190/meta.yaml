@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/573852163136792491/5144736a226749b3acf223ce22444190/artifacts
+end_time: 1776772199519
+entry_point_name: ''
+experiment_id: '573852163136792491'
+lifecycle_stage: active
+run_id: 5144736a226749b3acf223ce22444190
+run_name: industrious-cow-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776772198736
+status: 3
+tags: []
+user_id: Tushar

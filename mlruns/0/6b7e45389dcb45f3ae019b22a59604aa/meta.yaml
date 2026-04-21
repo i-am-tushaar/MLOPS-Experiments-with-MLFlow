@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6b7e45389dcb45f3ae019b22a59604aa/artifacts
+end_time: 1776772061381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7e45389dcb45f3ae019b22a59604aa
+run_name: bouncy-owl-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776772059118
+status: 3
+tags: []
+user_id: Tushar

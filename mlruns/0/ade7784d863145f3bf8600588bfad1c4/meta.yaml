@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ade7784d863145f3bf8600588bfad1c4/artifacts
+end_time: 1776769687452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ade7784d863145f3bf8600588bfad1c4
+run_name: aged-carp-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776769687303
+status: 3
+tags: []
+user_id: Tushar
