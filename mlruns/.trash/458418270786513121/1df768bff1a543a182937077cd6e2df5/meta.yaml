@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/1df768bff1a543a182937077cd6e2df5/artifacts
+deleted_time: 1777118031885
+end_time: 1777117753364
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: 1df768bff1a543a182937077cd6e2df5
+run_name: brawny-kite-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117753250
+status: 3
+tags: []
+user_id: Tushar

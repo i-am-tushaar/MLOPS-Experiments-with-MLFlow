@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/5e54e55e705c468dbe31ad2f4f341664/artifacts
+end_time: 1777118122441
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: 5e54e55e705c468dbe31ad2f4f341664
+run_name: righteous-seal-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118098171
+status: 3
+tags: []
+user_id: Tushar

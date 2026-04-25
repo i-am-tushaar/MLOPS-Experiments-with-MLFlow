@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/3f7cd298f2944393a2f92de6c9f88893/artifacts
+deleted_time: 1777118031885
+end_time: 1777117753792
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: 3f7cd298f2944393a2f92de6c9f88893
+run_name: bouncy-croc-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117753685
+status: 3
+tags: []
+user_id: Tushar

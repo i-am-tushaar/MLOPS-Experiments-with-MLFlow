@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/febfde8aa9a74c14bc8e19c7785b9fd2/artifacts
+end_time: 1777118193609
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: febfde8aa9a74c14bc8e19c7785b9fd2
+run_name: efficient-stoat-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118193074
+status: 3
+tags: []
+user_id: Tushar

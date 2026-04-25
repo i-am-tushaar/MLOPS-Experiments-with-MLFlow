@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/0cac31e766224aaba673278f6e6a5e28/artifacts
+end_time: 1777118193767
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: 0cac31e766224aaba673278f6e6a5e28
+run_name: hilarious-seal-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118193621
+status: 3
+tags: []
+user_id: Tushar

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/8d4ef64d796a4e34a9a5ab44bde7dc29/artifacts
+end_time: 1777118202793
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: 8d4ef64d796a4e34a9a5ab44bde7dc29
+run_name: masked-wolf-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118178864
+status: 3
+tags: []
+user_id: Tushar

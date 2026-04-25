@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/2b96da1b82314785ae497b98900297e6/artifacts
+end_time: 1777118192482
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: 2b96da1b82314785ae497b98900297e6
+run_name: treasured-kit-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118192267
+status: 3
+tags: []
+user_id: Tushar

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/f0d921f12e0c4cd794778d512fc1e538/artifacts
+end_time: 1777118192241
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: f0d921f12e0c4cd794778d512fc1e538
+run_name: defiant-horse-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118191513
+status: 3
+tags: []
+user_id: Tushar

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/ddd193e0e2cd48659f4183fdc994a473/artifacts
+deleted_time: 1777118031885
+end_time: 1777117753235
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: ddd193e0e2cd48659f4183fdc994a473
+run_name: thoughtful-seal-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117753120
+status: 3
+tags: []
+user_id: Tushar

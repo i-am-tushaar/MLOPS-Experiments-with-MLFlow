@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/2dd7ed83daf747dd84ba921bb5a103c1/artifacts
+deleted_time: 1777118031885
+end_time: 1777117753666
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: 2dd7ed83daf747dd84ba921bb5a103c1
+run_name: flawless-colt-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117753556
+status: 3
+tags: []
+user_id: Tushar

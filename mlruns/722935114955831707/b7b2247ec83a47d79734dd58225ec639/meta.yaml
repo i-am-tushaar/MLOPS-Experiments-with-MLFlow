@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/b7b2247ec83a47d79734dd58225ec639/artifacts
+end_time: 1777118191166
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: b7b2247ec83a47d79734dd58225ec639
+run_name: popular-panda-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118191068
+status: 3
+tags: []
+user_id: Tushar

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/d875058ea81d4ff3906593e4b1b73d5e/artifacts
+end_time: 1777118192727
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: d875058ea81d4ff3906593e4b1b73d5e
+run_name: wistful-gull-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118192495
+status: 3
+tags: []
+user_id: Tushar

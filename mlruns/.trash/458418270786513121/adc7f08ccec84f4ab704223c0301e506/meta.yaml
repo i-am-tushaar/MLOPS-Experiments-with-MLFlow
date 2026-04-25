@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/adc7f08ccec84f4ab704223c0301e506/artifacts
+deleted_time: 1777118031885
+end_time: 1777117766726
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: adc7f08ccec84f4ab704223c0301e506
+run_name: ambitious-kite-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117739188
+status: 3
+tags: []
+user_id: Tushar

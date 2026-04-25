@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/88ddac2777a94f4e9a8aea2fe4c54d80/artifacts
+end_time: 1777118193062
+entry_point_name: ''
+experiment_id: '722935114955831707'
+lifecycle_stage: active
+run_id: 88ddac2777a94f4e9a8aea2fe4c54d80
+run_name: debonair-owl-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777118192945
+status: 3
+tags: []
+user_id: Tushar

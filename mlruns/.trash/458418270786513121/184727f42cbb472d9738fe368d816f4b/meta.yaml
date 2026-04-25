@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/184727f42cbb472d9738fe368d816f4b/artifacts
+deleted_time: 1777118031885
+end_time: 1777117753947
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: 184727f42cbb472d9738fe368d816f4b
+run_name: bemused-swan-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117753809
+status: 3
+tags: []
+user_id: Tushar

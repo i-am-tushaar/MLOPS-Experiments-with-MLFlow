@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/458418270786513121/ce58229beec84330bf8235c265d42898/artifacts
+deleted_time: 1777118031885
+end_time: 1777117755093
+entry_point_name: ''
+experiment_id: '458418270786513121'
+lifecycle_stage: deleted
+run_id: ce58229beec84330bf8235c265d42898
+run_name: fearless-bear-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117754695
+status: 3
+tags: []
+user_id: Tushar
