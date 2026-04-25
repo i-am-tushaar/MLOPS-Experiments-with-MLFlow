@@ -1,0 +1,16 @@
+creation_timestamp: 1777118824236
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1777118824236
+model_id: m-504b951390e14d2380a1dc367eb2648e
+name: Random-forest-model-1
+run_id: 5e54e55e705c468dbe31ad2f4f341664
+run_link: ''
+source: models:/m-504b951390e14d2380a1dc367eb2648e
+status: READY
+status_message: null
+storage_location: file:///F:/Tutorials/MLOPS-Experiments-with-MLFlow/mlruns/722935114955831707/models/m-504b951390e14d2380a1dc367eb2648e/artifacts
+user_id: null
+version: 2
+workspace: default

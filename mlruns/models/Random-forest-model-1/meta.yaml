@@ -1,0 +1,10 @@
+aliases:
+  candidate: '1'
+  champion: '2'
+creation_timestamp: 1777118575479
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1777118864141
+name: Random-forest-model-1
+workspace: default
