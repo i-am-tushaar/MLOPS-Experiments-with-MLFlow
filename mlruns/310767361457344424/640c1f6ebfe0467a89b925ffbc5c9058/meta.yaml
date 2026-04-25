@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/310767361457344424/640c1f6ebfe0467a89b925ffbc5c9058/artifacts
+end_time: 1777117349468
+entry_point_name: ''
+experiment_id: '310767361457344424'
+lifecycle_stage: active
+run_id: 640c1f6ebfe0467a89b925ffbc5c9058
+run_name: intrigued-gull-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777117334989
+status: 3
+tags: []
+user_id: Tushar
